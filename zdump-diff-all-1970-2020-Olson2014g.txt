@@ -26,40 +26,6 @@ TimeZone: Africa/Blantyre
 TimeZone: Africa/Brazzaville
 TimeZone: Africa/Bujumbura
 TimeZone: Africa/Cairo
-  Thu Sep 21 20:59:59 2006 UT = Thu Sep 21 23:59:59 2006 EEST isdst=1 gmtoff=10800		   |	  Sun Sep 24 20:59:59 2006 UT = Sun Sep 24 23:59:59 2006 EEST isdst=1 gmtoff=10800
-  Thu Sep 21 21:00:00 2006 UT = Thu Sep 21 23:00:00 2006 EET isdst=0 gmtoff=7200		   |	  Sun Sep 24 21:00:00 2006 UT = Sun Sep 24 23:00:00 2006 EET isdst=0 gmtoff=7200
-  Thu Aug 20 20:59:59 2009 UT = Thu Aug 20 23:59:59 2009 EEST isdst=1 gmtoff=10800		   |	  Sun Aug 23 20:59:59 2009 UT = Sun Aug 23 23:59:59 2009 EEST isdst=1 gmtoff=10800
-  Thu Aug 20 21:00:00 2009 UT = Thu Aug 20 23:00:00 2009 EET isdst=0 gmtoff=7200		   |	  Sun Aug 23 21:00:00 2009 UT = Sun Aug 23 23:00:00 2009 EET isdst=0 gmtoff=7200
-  Tue Aug 10 20:59:59 2010 UT = Tue Aug 10 23:59:59 2010 EEST isdst=1 gmtoff=10800		   |	  Sun Aug 15 20:59:59 2010 UT = Sun Aug 15 23:59:59 2010 EEST isdst=1 gmtoff=10800
-  Tue Aug 10 21:00:00 2010 UT = Tue Aug 10 23:00:00 2010 EET isdst=0 gmtoff=7200		   |	  Sun Aug 15 21:00:00 2010 UT = Sun Aug 15 23:00:00 2010 EET isdst=0 gmtoff=7200
-  Thu Sep  9 21:59:59 2010 UT = Thu Sep  9 23:59:59 2010 EET isdst=0 gmtoff=7200		   |	  Sun Sep 12 21:59:59 2010 UT = Sun Sep 12 23:59:59 2010 EET isdst=0 gmtoff=7200
-  Thu Sep  9 22:00:00 2010 UT = Fri Sep 10 01:00:00 2010 EEST isdst=1 gmtoff=10800		   |	  Sun Sep 12 22:00:00 2010 UT = Mon Sep 13 01:00:00 2010 EEST isdst=1 gmtoff=10800
-  Thu May 15 21:59:59 2014 UT = Thu May 15 23:59:59 2014 EET isdst=0 gmtoff=7200		   |	  Sun May 18 21:59:59 2014 UT = Sun May 18 23:59:59 2014 EET isdst=0 gmtoff=7200
-  Thu May 15 22:00:00 2014 UT = Fri May 16 01:00:00 2014 EEST isdst=1 gmtoff=10800		   |	  Sun May 18 22:00:00 2014 UT = Mon May 19 01:00:00 2014 EEST isdst=1 gmtoff=10800
-  Thu Jun 26 20:59:59 2014 UT = Thu Jun 26 23:59:59 2014 EEST isdst=1 gmtoff=10800		   |	  Sun Jun 29 20:59:59 2014 UT = Sun Jun 29 23:59:59 2014 EEST isdst=1 gmtoff=10800
-  Thu Jun 26 21:00:00 2014 UT = Thu Jun 26 23:00:00 2014 EET isdst=0 gmtoff=7200		   |	  Sun Jun 29 21:00:00 2014 UT = Sun Jun 29 23:00:00 2014 EET isdst=0 gmtoff=7200
-  Thu Jul 31 21:59:59 2014 UT = Thu Jul 31 23:59:59 2014 EET isdst=0 gmtoff=7200		   |	  Sun Aug  3 21:59:59 2014 UT = Sun Aug  3 23:59:59 2014 EET isdst=0 gmtoff=7200
-  Thu Jul 31 22:00:00 2014 UT = Fri Aug  1 01:00:00 2014 EEST isdst=1 gmtoff=10800		   |	  Sun Aug  3 22:00:00 2014 UT = Mon Aug  4 01:00:00 2014 EEST isdst=1 gmtoff=10800
-  Thu Jun 11 20:59:59 2015 UT = Thu Jun 11 23:59:59 2015 EEST isdst=1 gmtoff=10800		   |	  Sun Jun 14 20:59:59 2015 UT = Sun Jun 14 23:59:59 2015 EEST isdst=1 gmtoff=10800
-  Thu Jun 11 21:00:00 2015 UT = Thu Jun 11 23:00:00 2015 EET isdst=0 gmtoff=7200		   |	  Sun Jun 14 21:00:00 2015 UT = Sun Jun 14 23:00:00 2015 EET isdst=0 gmtoff=7200
-  Thu Jul 23 21:59:59 2015 UT = Thu Jul 23 23:59:59 2015 EET isdst=0 gmtoff=7200		   |	  Sun Jul 26 21:59:59 2015 UT = Sun Jul 26 23:59:59 2015 EET isdst=0 gmtoff=7200
-  Thu Jul 23 22:00:00 2015 UT = Fri Jul 24 01:00:00 2015 EEST isdst=1 gmtoff=10800		   |	  Sun Jul 26 22:00:00 2015 UT = Mon Jul 27 01:00:00 2015 EEST isdst=1 gmtoff=10800
-  Thu Jun  2 20:59:59 2016 UT = Thu Jun  2 23:59:59 2016 EEST isdst=1 gmtoff=10800		   |	  Sun Jun  5 20:59:59 2016 UT = Sun Jun  5 23:59:59 2016 EEST isdst=1 gmtoff=10800
-  Thu Jun  2 21:00:00 2016 UT = Thu Jun  2 23:00:00 2016 EET isdst=0 gmtoff=7200		   |	  Sun Jun  5 21:00:00 2016 UT = Sun Jun  5 23:00:00 2016 EET isdst=0 gmtoff=7200
-  Thu Jul  7 21:59:59 2016 UT = Thu Jul  7 23:59:59 2016 EET isdst=0 gmtoff=7200		   |	  Sun Jul 10 21:59:59 2016 UT = Sun Jul 10 23:59:59 2016 EET isdst=0 gmtoff=7200
-  Thu Jul  7 22:00:00 2016 UT = Fri Jul  8 01:00:00 2016 EEST isdst=1 gmtoff=10800		   |	  Sun Jul 10 22:00:00 2016 UT = Mon Jul 11 01:00:00 2016 EEST isdst=1 gmtoff=10800
-  Thu May 25 20:59:59 2017 UT = Thu May 25 23:59:59 2017 EEST isdst=1 gmtoff=10800		   |	  Sun May 28 20:59:59 2017 UT = Sun May 28 23:59:59 2017 EEST isdst=1 gmtoff=10800
-  Thu May 25 21:00:00 2017 UT = Thu May 25 23:00:00 2017 EET isdst=0 gmtoff=7200		   |	  Sun May 28 21:00:00 2017 UT = Sun May 28 23:00:00 2017 EET isdst=0 gmtoff=7200
-  Thu Jun 29 21:59:59 2017 UT = Thu Jun 29 23:59:59 2017 EET isdst=0 gmtoff=7200		   |	  Sun Jul  2 21:59:59 2017 UT = Sun Jul  2 23:59:59 2017 EET isdst=0 gmtoff=7200
-  Thu Jun 29 22:00:00 2017 UT = Fri Jun 30 01:00:00 2017 EEST isdst=1 gmtoff=10800		   |	  Sun Jul  2 22:00:00 2017 UT = Mon Jul  3 01:00:00 2017 EEST isdst=1 gmtoff=10800
-  Thu May 10 20:59:59 2018 UT = Thu May 10 23:59:59 2018 EEST isdst=1 gmtoff=10800		   |	  Sun May 13 20:59:59 2018 UT = Sun May 13 23:59:59 2018 EEST isdst=1 gmtoff=10800
-  Thu May 10 21:00:00 2018 UT = Thu May 10 23:00:00 2018 EET isdst=0 gmtoff=7200		   |	  Sun May 13 21:00:00 2018 UT = Sun May 13 23:00:00 2018 EET isdst=0 gmtoff=7200
-  Thu Jun 14 21:59:59 2018 UT = Thu Jun 14 23:59:59 2018 EET isdst=0 gmtoff=7200		   |	  Sun Jun 17 21:59:59 2018 UT = Sun Jun 17 23:59:59 2018 EET isdst=0 gmtoff=7200
-  Thu Jun 14 22:00:00 2018 UT = Fri Jun 15 01:00:00 2018 EEST isdst=1 gmtoff=10800		   |	  Sun Jun 17 22:00:00 2018 UT = Mon Jun 18 01:00:00 2018 EEST isdst=1 gmtoff=10800
-  Thu May  2 20:59:59 2019 UT = Thu May  2 23:59:59 2019 EEST isdst=1 gmtoff=10800		   |	  Sun May  5 20:59:59 2019 UT = Sun May  5 23:59:59 2019 EEST isdst=1 gmtoff=10800
-  Thu May  2 21:00:00 2019 UT = Thu May  2 23:00:00 2019 EET isdst=0 gmtoff=7200		   |	  Sun May  5 21:00:00 2019 UT = Sun May  5 23:00:00 2019 EET isdst=0 gmtoff=7200
-  Thu Jun  6 21:59:59 2019 UT = Thu Jun  6 23:59:59 2019 EET isdst=0 gmtoff=7200		   |	  Sun Jun  9 21:59:59 2019 UT = Sun Jun  9 23:59:59 2019 EET isdst=0 gmtoff=7200
-  Thu Jun  6 22:00:00 2019 UT = Fri Jun  7 01:00:00 2019 EEST isdst=1 gmtoff=10800		   |	  Sun Jun  9 22:00:00 2019 UT = Mon Jun 10 01:00:00 2019 EEST isdst=1 gmtoff=10800
 TimeZone: Africa/Casablanca
   Fri Mar 16 00:00:00 1984 UT = Fri Mar 16 01:00:00 1984 CET isdst=0 gmtoff=3600		   |	  Fri Mar 16 00:00:00 1984 UT = Fri Mar 16 01:00:00 1984 +01:00 isdst=0 gmtoff=3600
   Tue Dec 31 22:59:59 1985 UT = Tue Dec 31 23:59:59 1985 CET isdst=0 gmtoff=3600		   |	  Tue Dec 31 22:59:59 1985 UT = Tue Dec 31 23:59:59 1985 +01:00 isdst=0 gmtoff=3600
@@ -7082,8 +7048,7 @@ TimeZone: Pacific/Apia
   Sat Apr  2 14:00:00 2011 UT = Sat Apr  2 03:00:00 2011 WST isdst=0 gmtoff=-39600		   |	  Sat Apr  2 14:00:00 2011 UT = Sat Apr  2 03:00:00 2011 -11:00 isdst=0 gmtoff=-39600
   Sat Sep 24 13:59:59 2011 UT = Sat Sep 24 02:59:59 2011 WST isdst=0 gmtoff=-39600		   |	  Sat Sep 24 13:59:59 2011 UT = Sat Sep 24 02:59:59 2011 -11:00 isdst=0 gmtoff=-39600
   Sat Sep 24 14:00:00 2011 UT = Sat Sep 24 04:00:00 2011 WSDT isdst=1 gmtoff=-36000		   |	  Sat Sep 24 14:00:00 2011 UT = Sat Sep 24 04:00:00 2011 -10:00 isdst=1 gmtoff=-36000
-  Fri Dec 30 09:59:59 2011 UT = Thu Dec 29 23:59:59 2011 WSDT isdst=1 gmtoff=-36000		   |	  Mon Jan  2 09:59:59 2012 UT = Sun Jan  1 23:59:59 2012 -10:00 isdst=1 gmtoff=-36000
-  Fri Dec 30 10:00:00 2011 UT = Sat Dec 31 00:00:00 2011 WSDT isdst=1 gmtoff=50400		   |	  Mon Jan  2 10:00:00 2012 UT = Tue Jan  3 00:00:00 2012 WSDT isdst=1 gmtoff=50400
+  Fri Dec 30 09:59:59 2011 UT = Thu Dec 29 23:59:59 2011 WSDT isdst=1 gmtoff=-36000		   |	  Fri Dec 30 09:59:59 2011 UT = Thu Dec 29 23:59:59 2011 -10:00 isdst=1 gmtoff=-36000
   Sat Mar 31 14:00:00 2012 UT = Sun Apr  1 03:00:00 2012 WST isdst=0 gmtoff=46800		   |	  Sat Mar 31 14:00:00 2012 UT = Sun Apr  1 03:00:00 2012 +13:00 isdst=0 gmtoff=46800
   Sat Sep 29 13:59:59 2012 UT = Sun Sep 30 02:59:59 2012 WST isdst=0 gmtoff=46800		   |	  Sat Sep 29 13:59:59 2012 UT = Sun Sep 30 02:59:59 2012 +13:00 isdst=0 gmtoff=46800
   Sat Apr  6 14:00:00 2013 UT = Sun Apr  7 03:00:00 2013 WST isdst=0 gmtoff=46800		   |	  Sat Apr  6 14:00:00 2013 UT = Sun Apr  7 03:00:00 2013 +13:00 isdst=0 gmtoff=46800
